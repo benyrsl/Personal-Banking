@@ -18,3 +18,10 @@ js-1111
 jd-2222
 stw-333
 ss-4444
+
+Please click on the photo below to checkout the preview video:
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oCgBZYzWD0U/0.jpg)](https://www.youtube.com/watch?v=oCgBZYzWD0U)
+
+
